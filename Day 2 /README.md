@@ -13,4 +13,4 @@ Code: name= input("Enter your name")
       print("Hello", name)
       print("You are",age,"years old")
 
-Output : 
+Output : ![Output Screenshot](../day2-output.png) 
