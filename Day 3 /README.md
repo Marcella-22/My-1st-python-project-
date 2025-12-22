@@ -9,10 +9,13 @@ How to run :1.Open an online python compiler. 2.Copy and paste the code. 3.Click
 Code: 
 
     age = int(input("Enter your age: "))
+    
 if age < 13:
     print("You are a child")
+    
 elif age < 20:
     print("You are a teenager")
+    
 else:
     print("You are an adult")
     
